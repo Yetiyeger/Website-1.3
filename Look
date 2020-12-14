@@ -1,0 +1,32 @@
+<HTML>
+
+<HEAD>
+<Yetiyeger></TITLE>
+</HEAD>
+
+<BODY>
+<P>Der zu übertragende Text steht im BODY-Teil.
+<P><CENTER>Welcome.</CENTER>
+
+<P><U>hello</U>
+
+<P><FONT COLOR="#AF0000">Farbe</FONT>
+
+<P><FONT SIZE="+1">Gr&ouml;sse</FONT>
+
+<P><B>Arial</B>
+
+<UL>
+
+<LI><B>Lebenslauf </B>
+
+<LI><B>den gebe ich nicht preis </B>
+
+</UL>
+
+<P>Ein Link: <A HREF="Java_Getting_Started.html">zur&uuml;ck zur Java-Startseite</A>
+
+<HR>
+</BODY>
+
+</HTML>
